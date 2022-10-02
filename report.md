@@ -1,4 +1,4 @@
-# Quest Name
+# Partial Autonomy - Follow a Wall & Emergency Stop
 Authors: Andrew Heins Brownback, Mark Paul Vinciguerra, Timin Carlos Kanani
 
 Date: 2022-04-22
@@ -7,36 +7,6 @@ Date: 2022-04-22
 ## Summary
 
 In this project we implemented a partially-autonomous RC vehicle, which uses proportional, integral, differential (PID) algorithm to mantain speed and direction. By having a set speed as well as a set distance from a wall, we used various sensors to detect the current distance and calculate the error and adjust the car's speed or direction proportionally.
-
-## Self-Assessment
-
-We all did a relatively equal work load. Timin was our videographer and sensor specialist. Mark was our software guru and head of post production editing, and Drew was in charge of reporting and hardware, as well as working out backend debugging.  
-
-Mark: 95
-Drew: 97
-Timin: 92
-
-### Objective Criteria
-
-| Objective Criterion | Rating | Max Value  | 
-|---------------------------------------------|:-----------:|:---------:|
-| Objective One |  |  1     | 
-| Objective Two |  |  1     | 
-| Objective Three |  |  1     | 
-| Objective Four |  |  1     | 
-| Objective Five |  |  1     | 
-| Objective Six |  |  1     | 
-| Objective Seven |  |  1     | 
-
-
-### Qualitative Criteria
-
-| Qualitative Criterion | Rating | Max Value  | 
-|---------------------------------------------|:-----------:|:---------:|
-| Quality of solution |  |  5     | 
-| Quality of report.md including use of graphics |  |  3     | 
-| Quality of code reporting |  |  3     | 
-| Quality of video presentation |  |  3     | 
 
 
 ## Solution Design
