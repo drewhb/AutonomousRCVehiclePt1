@@ -4,7 +4,7 @@ Authors: Andrew Heins Brownback, Mark Paul Vinciguerra, Timin Carlos Kanani
 Date: 2022-04-22
 -----
 ## Video Demo
-<iframe src="https://drive.google.com/file/d/1Yudi7i-k1_aOkcJ0S72-hU6sTQ7btMnf/preview" width="640" height="480" allow="autoplay"></iframe>
+[![VIDEO DEMO](./images/video_prev.jpg)](https://drive.google.com/file/d/1Yudi7i-k1_aOkcJ0S72-hU6sTQ7btMnf/view)
 
 ## Summary
 
